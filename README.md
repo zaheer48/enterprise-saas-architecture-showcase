@@ -71,3 +71,14 @@ Deployment: Production-ready architecture
 
 This repository represents the architecture and engineering approach used in enterprise SaaS development.
 Client-specific code and data are kept private.
+
+
+## System Overview
+
+This project demonstrates a scalable multi-tenant SaaS architecture built using Laravel.
+
+The system is designed for:
+- Multiple organizations
+- Isolated data per tenant
+- Subscription-based access
+- Secure role management
